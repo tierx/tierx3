@@ -1,0 +1,12 @@
+{"user": "user_toon", "items": [{"name": "น้ำเปล่า", "qty": 3, "price": 10}], "total": 30, "timestamp": "2025-05-13T06:51:06.780035"}
+{"user": "user_toon", "items": [{"name": "ขนมปัง", "qty": 2, "price": 25}], "total": 50, "timestamp": "2025-05-13T07:02:23.918758"}
+{"user": "user_toon", "items": [{"name": "แพม", "qty": 1, "price": 10}], "total": 10, "timestamp": "2025-05-13T07:19:19.251402"}
+{"user": "user_toon", "items": [{"name": "น้ำเปล่า", "qty": 1, "price": 10}], "total": 10, "timestamp": "2025-05-13T07:32:43.626770"}
+{"user": "aimlab9103", "items": [{"name": "เหรียญ 100 บาท", "qty": 1, "price": 100}, {"name": "เหรียญ 1,000 บาท", "qty": 1, "price": 1000}], "total": 1100, "timestamp": "2025-05-13T08:23:52.942744"}
+{"user": "aimlab9103", "items": [{"name": "เหรียญ 100 บาท", "qty": 1, "price": 100}], "total": 100, "timestamp": "2025-05-13T08:26:58.323472"}
+{"user": "user_toon", "items": [{"name": "ปืนพก", "qty": 1, "price": 5000}, {"name": "มีด", "qty": 1, "price": 2000}], "total": 7000, "timestamp": "2025-05-13T08:28:33.847722"}
+{"user": "aimlab9103", "items": [{"name": "เหรียญ 100 บาท", "qty": 1, "price": 100}, {"name": "เหรียญ 1,000 บาท", "qty": 1, "price": 1000}], "total": 1100, "timestamp": "2025-05-13T08:29:38.935441"}
+{"user": "mj12.23.45", "items": [{"name": "มีด", "qty": 1, "price": 2000}], "total": 2000, "timestamp": "2025-05-13T08:30:45.253894"}
+{"user": "thisisaruby", "items": [{"name": "ยาสมุนไพร", "qty": 1, "price": 500}, {"name": "อาหาร", "qty": 1, "price": 200}, {"name": "น้ำเปล่า", "qty": 1, "price": 10}], "total": 710, "timestamp": "2025-05-13T08:39:30.403411"}
+{"user": "aimlab9103", "items": [{"name": "รถเบนซ์", "qty": 2, "price": 50000}, {"name": "รถแลมโบ", "qty": 1, "price": 100000}], "total": 200000, "timestamp": "2025-05-13T08:42:07.080021"}
+{"user": "aimlab9103", "items": [{"name": "รถเบนซ์", "qty": 5, "price": 50000}, {"name": "รถแลมโบ", "qty": 1, "price": 100000}], "total": 350000, "timestamp": "2025-05-13T08:43:07.869236"}
